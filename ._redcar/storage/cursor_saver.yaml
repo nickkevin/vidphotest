@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 161
+    :timestamp: 2013-03-08 17:17:07.265000 +05:30
+  - :path: app/views/users/_form.html.erb
+    :cursor_offset: 777
+    :timestamp: 2013-03-08 17:25:46.187000 +05:30
+  - :path: app/views/users/show.html.erb
+    :cursor_offset: 247
+    :timestamp: 2013-03-08 17:52:23.140000 +05:30
+files_to_retain: 0

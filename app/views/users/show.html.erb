@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+<p>
+  <%= image_tag @user.image.url(:medium) %>
+</p>
+<p><%= video_tag @user.video.url , :width => "280", :height => "170" , :controls => true ,:autobuffer => true %>
+</p>
+<p>
+  <b>Name:</b>
+  <%= @user.name %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @user.email %>
+</p>
+
+<p>
+  <b>Body:</b>
+  <%= @user.body %>
+</p>
+
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', users_path %>
