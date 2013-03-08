@@ -1,4 +1,4 @@
-1362745467
+1362746864
 AddAttachmentImageToUsers	C:/Sites/i/vidphotest/db/migrate/20130308114821_add_attachment_image_to_users.rb	class AddAttachmentImageToUsers 
 AddAttachmentVideoToUsers	C:/Sites/i/vidphotest/db/migrate/20130308114930_add_attachment_video_to_users.rb	class AddAttachmentVideoToUsers 
 Application	C:/Sites/i/vidphotest/config/application.rb	  class Application 
